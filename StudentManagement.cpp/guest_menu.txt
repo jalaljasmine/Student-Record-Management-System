@@ -1,0 +1,3 @@
+Display Students|display
+Search Student|search
+Logout|logout

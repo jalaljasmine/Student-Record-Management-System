@@ -1,0 +1,5 @@
+Add Student|add
+Display Students|display
+Search Student|search
+Update Student|update
+Logout|logout
